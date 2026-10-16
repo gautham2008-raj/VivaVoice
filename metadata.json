@@ -1,0 +1,6 @@
+{
+  "name": "VivaVoce AI — Assignment Understanding Verification System",
+  "description": "An AI-powered academic integrity and assignment understanding verification platform evaluating genuine student comprehension through personalized oral-style text vivas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
